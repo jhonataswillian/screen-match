@@ -8,7 +8,6 @@ public class ConverteDado implements IConverteDado {
 
     private ObjectMapper mapper = new ObjectMapper();
 
-
     @Override
     public <T> T obterDado(String json, Class<T> classe) {
         try {
