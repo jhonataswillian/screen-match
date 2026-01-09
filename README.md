@@ -1,3 +1,3 @@
-# screen-match
+# Screenmatch
 
-Projeto dedicado aos estudos de Desenvolvimento Backend na Alura
+Este projeto foi desenvolvido para fins de estudo.
